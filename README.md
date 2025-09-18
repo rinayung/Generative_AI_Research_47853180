@@ -1,21 +1,22 @@
 ##Repository Structure
 Generative_AI_Research_47853180
-│
-├── Additional Materials/          # Supporting files such as images, info sheets, figures
-│   └── Figures/                   # Project figures (e.g., survey charts, diagrams)
-│
-├── Drafts and Report/             # Research proposals, drafts, submitted papers, and final reports
-│
-├── Literature Review/             # Literature-related files
-│   └── reference/                 # Academic references (PDFs, articles, books)
-│
-├── Qualitative Analysis/          # Interview and qualitative analysis files
-│   └── Interviews_Transcript/     # Interview transcripts with versioned filenames
-│
-├── Quantitative Analysis/         # Survey and statistical data
-│   └── SurveyData/                # Raw data, cleaned data, analysis scripts, survey questions, figures
-│
-└── README.md                      # Documentation for project navigation
+
+·Additional Materials/          # Supporting files such as images, info sheets, figures
+    -Figures/                   # Project figures (e.g., survey charts, diagrams)
+
+·Drafts and Report/             # Research proposals, drafts, submitted papers, and final reports
+
+·Literature Review/             # Literature-related files
+    -reference/                 # Academic references (PDFs, articles, books)
+
+·Qualitative Analysis/          # Interview and qualitative analysis files
+
+·Interviews_Transcript/         # Interview transcripts with versioned filenames
+
+·Quantitative Analysis/         # Survey and statistical data
+    -SurveyData/                # Raw data, cleaned data, analysis scripts, survey questions, figures
+
+·README.md                      # Documentation for project navigation
 
 ## Collaboration
 
